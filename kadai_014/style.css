@@ -11,24 +11,24 @@ html {
 }
 
 
-#h1 font {
+#h1_font {
   font-family: "Josefin Sans", sans-serif;
 }
 
 
-#h1 font {
+#h1_font {
   font-size: 2rem;
 }
 
-#h1 font {
+#h1_font {
   letter-spacing: 1.2em;
 }
 
-#h1 font {
+#h1_font {
   text-shadow: 1px 2px 3px black;
 }
 
-#h1 font {
+#h1_font {
   text-decoration: 3px underline;
 }
 
