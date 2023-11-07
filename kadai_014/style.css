@@ -4,32 +4,20 @@ body {
 
 html {
   font-size: 20px;
-}
-
-html {
   text-align: center;
 }
 
 
 #h1_font {
-  font-family: "Josefin Sans", sans-serif; 
-}
-
-
-#h1_font {
-  font-size: 2rem;
-}
-
-#h1_font {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
   letter-spacing: 1.2em;
+  text-shadow: 0px 2px 0px black;
 }
 
-#h1_font {
-  text-shadow: 1px 2px 2px black;
-}
-
-#h1_font {
-  text-decoration: 3px rgb(115,115,114) underline;
+#border {
+  border-bottom: solid 3px rgb(115, 115, 114);
+  width: auto;
 }
 
 .skyblue {
