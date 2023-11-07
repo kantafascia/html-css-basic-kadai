@@ -12,7 +12,7 @@ html {
 
 
 #h1_font {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif; 
 }
 
 
@@ -25,11 +25,11 @@ html {
 }
 
 #h1_font {
-  text-shadow: 1px 2px 3px black;
+  text-shadow: 1px 2px 2px black;
 }
 
 #h1_font {
-  text-decoration: 3px underline;
+  text-decoration: 3px rgb(115,115,114) underline;
 }
 
 .skyblue {
